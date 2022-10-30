@@ -1,4 +1,4 @@
-# Flux Wallet Bundle
+# FluxWallet
 
 
 ## Client Deployment
@@ -16,7 +16,3 @@ flutter run lib/main.dart
 pip install -r requirements. txt
 python app.py
 ```
-## Acknowledgements
-
- - [jacky-h-nguyen](https://github.com/jacky-h-nguyen)
- - [JL0218](https://github.com/JL0218)
